@@ -1,1 +1,1 @@
-# sbt
+# SBT for Docker
